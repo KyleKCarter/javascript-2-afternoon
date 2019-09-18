@@ -15,6 +15,11 @@
 */
 
 //Code here
+var name: {
+  name: "Kyle",
+  age: 23
+}
+
 
 ////////// PROBLEM 2 //////////
 
